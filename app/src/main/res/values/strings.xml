@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="app_name_uppercase">LIE DETECTOR</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="truth">YOU’RE TELLING\nTHE TRUTH</string>
+    <string name="not_tell">BETTER NOT TELL\nYOU NOW</string>
+    <string name="lie">YOU’RE LYING</string>
+    <string name="hold_to_scan">Hold to scan</string>
+</resources>
